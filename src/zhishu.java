@@ -9,12 +9,12 @@ public class zhishu {
         System.out.println("请输入一个整数：");
         n= scanner.nextInt();
         for (int i=1;i<=n;i++){
-            for (int j=1;j<=i;j++){
+            for (int j=2;j<=i;j++){
                 if (i%j==0){
                     x++;
                 }
             }
-            if (x==2){
+            if (x==1){
                 System.out.println(i);
                 y++;
             }
