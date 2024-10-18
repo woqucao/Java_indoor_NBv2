@@ -1,9 +1,7 @@
 import java.io.IOException;
-import java.util.Collection;
-import java.util.Collections;
 import java.util.Scanner;
 
-public class maobao {
+public class maopao {
 //    public static void max(int num1,int num2){
 //        int swap;
 //        if (num1<num2){
