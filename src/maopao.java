@@ -2,17 +2,6 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class maopao {
-//    public static void max(int num1,int num2){
-//        int swap;
-//        if (num1<num2){
-//
-//        }else if(num2<num1){
-//            swap = num1;
-//            num1 = num2;
-//            num2 = swap;
-//        }
-//        return ;
-//    }//服了，原来想用函数但是java没有指针（可能我没发现）但不管怎么样，差不多得了
     public static void main(String[] args) throws IOException {
         Scanner scanner = new Scanner(System.in);
         int n;
