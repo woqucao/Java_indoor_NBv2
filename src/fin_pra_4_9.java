@@ -8,7 +8,7 @@ public class fin_pra_4_9 {
         //number=System.in.read();
         number = scanner.nextInt();
         if (number % 2 == 0){
-            System.out.println("even");
+            System.out.println("偶数");
         }else {
             System.out.println("奇数");
         }
